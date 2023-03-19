@@ -1,6 +1,6 @@
 {
 "CALI": ["Caliper", "mm"],
-"GR": ["Gamma Ray", "Gapi"],
+"GK": ["Gamma Ray", "uR/h"],
 "RHOB": ["Bulk Density", "g/cm3"],
 "NPHI": ["Neutron Porosity", "v/v"],
 "PEF": ["Photoelectric Factor", "b/e"],
